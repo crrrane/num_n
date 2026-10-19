@@ -1,0 +1,9 @@
+n = 2
+a = 4
+eps = 1e-4
+max_iter = 200
+x0 = 0.2, 0.3
+f1 = a*x1 - cos(x2)
+f2 = a*x2 - exp(x1)
+phi1 = cos(x2)/a
+phi2 = exp(x1)/a
